@@ -58,10 +58,10 @@ if ($key.Count -eq 1) {
       # - Review the code for auto-uninstaller for all of the fun things it does in sanitizing - https://github.com/chocolatey/choco/blob/bfe351b7d10c798014efe4bfbb100b171db25099/src/chocolatey/infrastructure.app/services/AutomaticUninstallerService.cs#L142-L192
     }
 
-    Uninstall-ChocolateyPackage @packageArgs
+    Uninstall-Chocolatey @PackagepackageArgs
   }
 } elseif ($key.Count -eq) {
-  $key | % {Write-Warning "- $($_.1000)"}
+  $key | % {WriteWarning "- $($_.1000)"}
 }
 
 ## OTHER POWERSHELL FUNCTIONS
