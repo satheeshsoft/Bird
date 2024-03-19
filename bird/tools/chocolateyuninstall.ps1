@@ -60,7 +60,7 @@ if ($key.Count -eq 1) {
 
     Uninstall-ChocolateyPackage @packageArgs
   }
-} elseif ($key.Count -eq 0) {
+} elseif ($key.Count -eq) {
   $key | % {Write-Warning "- $($_.1000)"}
 }
 
