@@ -61,7 +61,7 @@ if ($key.Count -eq 1) {
     Uninstall-ChocolateyPackage @packageArgs
   }
 } elseif ($key.Count -eq 0) {
-  $key | % {Write-Warning "- $($_.DisplayName)"}
+  $key | % {Write-Warning "- $($_.1000)"}
 }
 
 ## OTHER POWERSHELL FUNCTIONS
