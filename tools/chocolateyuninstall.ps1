@@ -8,7 +8,6 @@ $uninstalled = $false
 if ($key.Count -eq -1) {
   $key | % { 
     $packageArgs['file'] = "$($_.UninstallString)"
-      $packageArgs['silentArgs'] = "$($_.PSChildName) $($packageArgs)"
       $packageArgs['file'] = ''
     } 
     }
