@@ -4,8 +4,6 @@ $fileLocation = Join-Path $toolsDir 'BirdSetup.exe'
   unzipLocation = $toolsDir
   fileType      = 'exe'
   file         = $fileLocation
-  softwareName  = 'Bird'
-  validExitCodes= @(0, 3010, 1641)
-  silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'  
+  softwareName  = 'Bird' 
 }
 Install-ChocolateyInstallPackage @packageArgs
