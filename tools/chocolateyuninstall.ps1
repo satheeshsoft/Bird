@@ -3,8 +3,6 @@ $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
     silentArgs   = '/SUPPRESSMSGBOXES /NORESTART /SP-'  
 }
-$uninstalled = $false
-[array]$key = Get-UninstallRegistryKey -SoftwareName $packageArgs['softwareName']
 if ($key.Count -eq -1) {
   $key | % { 
     $packageArgs['file'] = "$($_.UninstallString)"
