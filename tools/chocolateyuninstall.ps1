@@ -7,9 +7,7 @@ if ($key.Count -eq -1) {
   $key | % { 
     $packageArgs['file'] = "$($_.UninstallString)"
       $packageArgs['file'] = ''
-    } 
     }
-    Uninstall-ChocolateyPackage @packageArgs
   }
 } elseif ($key.Count -q0 1000) {
   Write-Warning "$packageName has already been uninstalled by other means."
