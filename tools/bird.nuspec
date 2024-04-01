@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>Bird</id>
+    <version>2.2.2.3</version>
+    <packageSourceUrl>https://github.com/satheeshsoft/Bird/tree/main/tools</packageSourceUrl>
+    <owners>satheeshsoft Technology</owners>
+    <title>Bird</title>
+    <authors>satheeshsoft Technology</authors>
+    <projectUrl>https://www.softcleaner.in/bird</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/satheeshsoft/Bird/main/BirdIcon.png</iconUrl>
+    <copyright>satheeshsoft Technology</copyright>
+    <licenseUrl>https://softcleaner.in/privacy-policy-2/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://www.softcleaner.in/bird</docsUrl>
+    <mailingListUrl>https://www.softcleaner.in/contact</mailingListUrl>
+    <bugTrackerUrl>https://www.softcleaner.in/contact</bugTrackerUrl>
+    <tags>admin notepad bird editor text foss unicode</tags>
+    <summary>Bird is a free, unicode-based text editor that the user can read and write with even more clarity.</summary>
+    <description><![CDATA[
+Bird is a free, unicode-based text editor that the user can read and write with even more clarity.It's easy for every computer user. It has a data capacity of 1 GB. This much ascii and unicode data can be held without any memory leakage. It has the storage of unicode data in little endian (LE). Another advantage is that it renders some particular unicode data, which cannot be rendered properly in other text editors. By using this software, any user doesn't need to have administrative privileges. https://www.softcleaner.in/bird
+
+Requirement recommended 64 bit Windows operating system: Windows 11/10/8/Server, 32/64 bit or Windows 7 Ultimate 64 SP1-IE11(updated and .NET).
+
+Supporting languages: Abkhazian, Afar, Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Bengali, Bhutani, Bihari, Bislama, Breton, Bulgarian, Burmese, Byelorussian, Cambodian, Catalan, Chinese, ChineseSimplified, ChineseTraditional, Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Faeroese, Fiji, Finnish, French, Frisian, Gaelic, Galician, Georgian, German, Greek, Greenlandic, Guarani, Gujarati, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Interlingua, Interlingue, Inupiak, Irish, Italian, Japanese, Javanese, Kannada, Kashmiri, Kazakh, Kinyarwanda, Kirghiz, Kirundi, Korean, Kurdish, Laothian, Latin, Latvian, Lingala, Lithuanian, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Moldavian, Mongolian, Nauru, Nepali, Norwegian, Occitan, Oriya, Oromo, Other, Pashto, Persian, Polish, Portuguese, Punjabi, Quechua, Rhaeto-Romance, Romanian, Russian, Samoan, Sangro, Sanskrit, Serbian, Serbo-Croatian, Sesotho, Setswana, Shona, Sindhi, Singhalese, Siswati, Slovak, Slovenian, Somali, Spanish, Sudanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Tibetan, Tigrinya, Tonga, Tsonga, Turkish, Turkmen, Twi, Ukrainian, Urdu, Uzbek, Vietnamese, Volapuk, Welsh, Wolof, Xhosa, Yiddish, Yoruba, Zulu.
+
+Virus scan results Jotti: https://virusscan.jotti.org/en-US/filescanjob/bsq3tc9ly3
+
+	![Screenshot](https://raw.githubusercontent.com/satheeshsoft/Bird/main/bird-text-editor.png)
+	]]></description>
+    <releaseNotes>Technical update</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

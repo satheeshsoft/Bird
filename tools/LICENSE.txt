@@ -1,5 +1,5 @@
 ﻿SOFTWARE LICENSE
-END-USER LICENSE AGREEMENT FOR software created from satheeshsoft or software owner (Satheesh Sivankutty) and officially declared in https://www.softcleaner.in or https://logintimer.weebly.com IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL: satheeshsoft End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and satheeshsoft. for the satheeshsoft software product(s) identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and satheeshsoft, (referred to as "licenser"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+END-USER LICENSE AGREEMENT FOR software created from satheeshsoft Technology or software owner (Satheesh Sivankutty) and officially declared in https://www.softcleaner.in IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL: satheeshsoft End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and satheeshsoft. for the satheeshsoft software product(s) identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and satheeshsoft, (referred to as "licenser"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
 Maintenance of Copyright Notices.
 You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.
 Distribution.
@@ -26,9 +26,15 @@ If there are any questions regarding this privacy policy, you may contact us usi
 satheeshsoft@softcleaner.in, satheesh.businessonlines@gmail.com
 
 Website: https://www.softcleaner.in
-Product: Bird
-License: Free
-Specification: https://www.softcleaner.in/bird
-Privacy Policy: https://www.softcleaner.in/privacy-policy 
+
+Product: Soft Cleaner
+License: Free.
+Specification: Automatically speed up your slow computer systems and cleaner. Automatic memory optimizer. Anti-spyware. Advanced Web and file search engine utility. https://softcleaner.in/speed-up-your-computer
+
+Bird: UNICODE based free clarity text editor. https://softcleaner.in/bird
+
+loginTimer: Y2K38 technology invention. The powerful software that automatically scans your computer login times and secretly stores them for you in a private text file, in addition to all users' login date, time, total logins each day/user, admin actions, login behavior (local and remote) and saves them continuously, one by one, in a private log file. This makes it easy for you to identify any suspicious activity on your computer and take appropriate action if necessary. It included the first successful discovery of Y2K38 technology. It works up to 2099 or after, with no Y2K year limitations. https://softcleaner.in/y2k38-logintimer-computer-system-login
+Buy loginTimer professional: https://payhip.com/b/Rzb2O
+
+Privacy Policy: https://softcleaner.in/privacy-policy-2/
 FAQ https://www.softcleaner.in/faq
-loginTimer: https://logintimer.weebly.com
